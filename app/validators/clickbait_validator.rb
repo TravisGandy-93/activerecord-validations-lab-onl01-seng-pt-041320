@@ -1,0 +1,3 @@
+class ClickbaitValidator
+  
+end 
